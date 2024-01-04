@@ -1,31 +1,31 @@
 @font-face {
     font-family: NBNav;
-    src: url(./Fonts/NBInternationalProBoo.ttf);
+    src: url(./Fonts/NBInternationalProBoo.woff2);
 }
 
 @font-face {
     font-family: REMain;
-    src: url(./Fonts/Rejouice-Headline.ttf);
+    src: url(./Fonts/Rejouice-Headline.woff2);
 }
 
 @font-face {
     font-family: AVCYb;
-    src: url(./Fonts/AvertaCY-Bold.ttf);
+    src: url(./Fonts/AvertaCY-Bold.woff2);
 }
 
 @font-face {
     font-family: AVCYl;
-    src: url(./Fonts/AvertaCY-Light.ttf);
+    src: url(./Fonts/AvertaCY-Light.woff2);
 }
 
 @font-face {
     font-family: AVCYr;
-    src: url(./Fonts/AvertaCY-Regular.ttf);
+    src: url(./Fonts/AvertaCY-Regular.woff2);
 }
 
 @font-face {
     font-family: AVCYsb;
-    src: url(./Fonts/AvertaCY-Semibold.ttf);
+    src: url(./Fonts/AvertaCY-Semibold.woff2);
 }
 
 * {
